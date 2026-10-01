@@ -1,0 +1,1 @@
+"""Media cost example package."""
